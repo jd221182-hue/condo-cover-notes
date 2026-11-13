@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://condo-cover-notes.onrender.com/sitemap.xml
